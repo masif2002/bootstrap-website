@@ -1,0 +1,2 @@
+# Bootstrap Crash Course
+Thsis sample project is created by following along the [tutorial](https://www.youtube.com/watch?v=4sosXZsdy-s) on a Bootstrap 5 crash course from [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA).
